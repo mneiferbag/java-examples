@@ -3,7 +3,7 @@ package com.example;
 import java.util.StringJoiner;
 
 /**
- * Technical Screening Exercise - Step 1.
+ * Fizz buzz programming exercise.
  */
 public class App {
 

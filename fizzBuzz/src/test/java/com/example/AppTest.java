@@ -5,7 +5,9 @@ import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
 /**
- * Unit tests for Technical Screening Exercise - Step 1.
+ * Unit tests for fizz buzz programming exercise.
+ *
+ * TODO: add test for range with end < start.
  */
 public class AppTest extends TestCase {
 
