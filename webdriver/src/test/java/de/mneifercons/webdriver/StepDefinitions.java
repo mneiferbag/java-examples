@@ -48,7 +48,7 @@ public class StepDefinitions {
         WebElement firstResult = wait.until(presenceOfElementLocated(By.cssSelector("div.srg>div.g")));
         String textContent =  firstResult.getAttribute("textContent");
 
-        inspectResponse(textContent);
+        checkResponse(textContent);
 
         assertThat(textContent, containsString("Cheese"));
     }
@@ -59,11 +59,11 @@ public class StepDefinitions {
         _driver = null;
     }
 
-    private void inspectResponse(String text) {
+    private void checkResponse(String text) {
         System.out.println(text);
         Object response = ((JavascriptExecutor) _driver).executeScript(
            "return document.getElementsByClassName('srg').length;");
-        System.out.println((Long) response);
+        assertEquals(2L, (long) response);
     }
 
 }
