@@ -3,3 +3,4 @@ Feature: Search Google
 
   Scenario: Search for cheese
     When I search for cheese
+    Then I find cheese
