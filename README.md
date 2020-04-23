@@ -2,9 +2,15 @@
 
 Collection of Java code examples. [https://gravatar.com/mneiferbag](https://gravatar.com/mneiferbag)
 
-License see file LICENSE.
+Licensed under the MIT License. See file LICENSE.
 
-# Links
+## Java Development Kit (JDK)
+
+The examples assume, that you have a JDK installed.
+
+On Ubuntu, install default JDK with `sudo apt install default-jdk`. Or install specific JDK with, for example `apt-get install openjdk-11-jdk`.
+
+## Links
 
 * General
     * [Cucumber Docs](https://cucumber.io/docs/cucumber/ "Cucumber Docs")
@@ -27,3 +33,4 @@ License see file LICENSE.
 * Apache
     * [Apache Log4j](https://logging.apache.org/log4j/ "Apache Log4j")
 	* [Apache Maven](http://maven.apache.org/ "Apache Maven")
+
