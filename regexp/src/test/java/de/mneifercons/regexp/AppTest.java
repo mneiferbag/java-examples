@@ -23,11 +23,16 @@ public class AppTest extends TestCase {
         return new TestSuite(AppTest.class);
     }
 
-    public void testSimple() {
+    public void testContains() {
         Pattern pattern = Pattern.compile(".*cheese.*");
         Matcher matcher = pattern.matcher("I like cheese, not!");
 
         assertTrue(matcher.matches());
+    }
+
+    public void testPatternMatches() {
+        assertTrue("start", Pattern.matches(".*cheese.*", "want cheese"));
+        assertTrue("end",   Pattern.matches(".*cheese.*", "cheese I want"));
     }
 
 }
