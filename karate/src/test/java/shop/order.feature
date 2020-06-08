@@ -12,4 +12,4 @@ Feature: Order product
     Given url 'http://localhost:8080/order?ordConfNo=' + orderConfirmationNumber
     When method get
     Then status 200
-    And match response.status == “NEW”
+    And match response.status == 'NEW'
