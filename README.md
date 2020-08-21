@@ -10,6 +10,15 @@ The examples assume, that you have a JDK installed.
 
 On Ubuntu, install default JDK with `sudo apt install default-jdk`. Or install specific JDK with, for example `apt-get install openjdk-11-jdk`.
 
+### JDK 14
+
+See [Java SE 14 ( JSR 389) Final Release Specification](https://cr.openjdk.java.net/~iris/se/14/latestSpec/#Features).
+
+- 305 Pattern Matching for instanceof (Preview)
+- 359 Records (Preview)
+- 361 Switch Expressions (Standard)
+- 368 Text Blocks (Second Preview)
+
 ## Links
 
 * General
