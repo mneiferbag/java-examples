@@ -6,10 +6,17 @@ package de.mneifercons.hello;
  * See file LICENSE in parent directory of project root.
  */
 
-public class App 
-{
-    public static void main(String[] args)
-    {
+public final class App {
+
+    private App() {
+    }
+
+    /**
+     * Application entry point.
+     *
+     * @param args the application arguments
+     */
+    public static void main(final String[] args) {
         System.out.println("Hello World!");
     }
 }
