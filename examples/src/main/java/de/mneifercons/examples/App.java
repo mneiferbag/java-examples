@@ -7,7 +7,6 @@ package de.mneifercons.examples;
 
 /**
  * Hello world!
- *
  */
 final class App {
 
