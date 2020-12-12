@@ -1,8 +1,8 @@
 # Java Examples
 
-Collection of Java code examples. [https://gravatar.com/mneiferbag](https://gravatar.com/mneiferbag)
-
 Licensed under the MIT License. See file LICENSE.
+
+Collection of Java code examples. [https://gravatar.com/mneiferbag](https://gravatar.com/mneiferbag)
 
 ## Java Development Kit (JDK)
 
