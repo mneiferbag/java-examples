@@ -5,8 +5,20 @@
  */
 package de.mneifercons.examples;
 
-public class BitFiddler {
-  public static void main(String[] args) {
+/**
+ * Bit fiddler.
+ */
+final class BitFiddler {
+
+  private BitFiddler() {
+  }
+
+  /**
+   * Application entry point.
+   *
+   * @param args the application arguments
+   */
+  public static void main(final String[] args) {
     if (args.length > 0) {
       int i = 0;
       int noOfBytes = args.length;
