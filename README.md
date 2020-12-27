@@ -12,16 +12,23 @@ On Ubuntu, install default JDK with `sudo apt install default-jdk`. Or install s
 
 ### JDK 14
 
-See [Java SE 14 ( JSR 389) Final Release Specification](https://cr.openjdk.java.net/~iris/se/14/latestSpec/#Features).
+Language features see [Java SE 14 (JSR 389) Final Release Specification](https://cr.openjdk.java.net/~iris/se/14/latestSpec/#Features).
 
 - 305 Pattern Matching for instanceof (Preview)
 - 359 Records (Preview)
 - 361 Switch Expressions (Standard)
 - 368 Text Blocks (Second Preview)
 
+### JDK 11
+
+Language features see [Java SE 11 (JSR 384) Final Release Specification](https://cr.openjdk.java.net/~iris/se/11/spec/fr/java-se-11-fr-spec/#Feature-details).
+
+- 323 Local-Variable Syntax for Lambda Parameters
+
 ## Links
 
 * General
+    * [Apache Groovy](https://www.groovy-lang.org/ "Apache Groovy")
     * [Cucumber Docs](https://cucumber.io/docs/cucumber/ "Cucumber Docs")
     * [DevStyle - Genuitec](https://www.genuitec.com/products/devstyle/ "DevStyle - Genuitec")
     * [EclEmma - Java Code Coverage for Eclipse](https://www.eclemma.org/ "EclEmma - Java Code Coverage for Eclipse")
