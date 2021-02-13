@@ -25,6 +25,15 @@ Language features see [Java SE 11 (JSR 384) Final Release Specification](https:/
 
 - 323 Local-Variable Syntax for Lambda Parameters
 
+## GitHub CodeQL
+
+To configure the JDK used by CodeQL, add the following step before all others.
+
+    - name: Setup Java JDK
+      uses: actions/setup-java@<chose tag>
+      with:
+         java-version: 11
+
 ## Links
 
 * General
