@@ -19,7 +19,7 @@ Language features see [Java SE 14 (JSR 389) Final Release Specification](https:/
 - 361 Switch Expressions (Standard)
 - 368 Text Blocks (Second Preview)
 
-### JDK 11
+### JDK 11 (LTS)
 
 Language features see [Java SE 11 (JSR 384) Final Release Specification](https://cr.openjdk.java.net/~iris/se/11/spec/fr/java-se-11-fr-spec/#Feature-details).
 
