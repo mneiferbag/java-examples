@@ -6,7 +6,7 @@ Collection of Java development examples.
 
 ## Java Development Kit (JDK)
 
-The examples assume, that you have a JDK installed.
+The examples assume, that you have a JDK installed. You might want to have a look at Microsoft [Visual Studio Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview) to create a platform independent development environment.
 
 On Ubuntu, install default JDK with `sudo apt install default-jdk`. Or install specific JDK with, for example `apt-get install openjdk-11-jdk`.
 
@@ -37,11 +37,13 @@ To configure the JDK used by CodeQL, add the following step before all others.
 ## Links
 
 * General
+    * [Apache CXF](https://cxf.apache.org/) (implements JAX-RS and more)
     * [Apache Groovy](https://www.groovy-lang.org/ "Apache Groovy")
     * [Cucumber Docs](https://cucumber.io/docs/cucumber/ "Cucumber Docs")
     * [DevStyle - Genuitec](https://www.genuitec.com/products/devstyle/ "DevStyle - Genuitec")
     * [EclEmma - Java Code Coverage for Eclipse](https://www.eclemma.org/ "EclEmma - Java Code Coverage for Eclipse")
     * [GitHub - FasterXML/jackson: Main Portal page for the Jackson project](https://github.com/FasterXML/jackson "GitHub - FasterXML/jackson: Main Portal page for the Jackson project")
+    * [Jakarta RESTful Web Services (JAX-RS)](https://projects.eclipse.org/projects/ee4j.jaxrs)
     * [Java BluePrints: Guidelines, patterns, and code for end-to-end applications](https://www.oracle.com/technetwork/java/index-jsp-136701.html "Java BluePrints: Guidelines, patterns, and code for end-to-end applications")
     * [Java Technology Reference](https://www.oracle.com/technetwork/java/index-jsp-142903.html "Java Technology Reference")
     * [jsonschema2pojo](http://www.jsonschema2pojo.org/ "jsonschema2pojo")
