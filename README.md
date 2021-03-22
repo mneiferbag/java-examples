@@ -2,7 +2,7 @@
 
 Licensed under the MIT License. See file LICENSE.
 
-Collection of Java development examples.
+Collection of Java development examples. Examples include code written in Java and Groovy.
 
 ## Java Development Kit (JDK)
 
