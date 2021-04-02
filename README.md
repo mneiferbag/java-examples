@@ -37,22 +37,20 @@ To configure the JDK used by CodeQL, add the following step before all others.
 ## Links
 
 * General
-    * [Apache CXF](https://cxf.apache.org/) (implements JAX-RS and more)
-    * [Apache Groovy](https://www.groovy-lang.org/ "Apache Groovy")
     * [Cucumber Docs](https://cucumber.io/docs/cucumber/ "Cucumber Docs")
     * [DevStyle - Genuitec](https://www.genuitec.com/products/devstyle/ "DevStyle - Genuitec")
     * [EclEmma - Java Code Coverage for Eclipse](https://www.eclemma.org/ "EclEmma - Java Code Coverage for Eclipse")
     * [GitHub - FasterXML/jackson: Main Portal page for the Jackson project](https://github.com/FasterXML/jackson "GitHub - FasterXML/jackson: Main Portal page for the Jackson project")
-    * [Jakarta RESTful Web Services (JAX-RS)](https://projects.eclipse.org/projects/ee4j.jaxrs)
     * [Java BluePrints: Guidelines, patterns, and code for end-to-end applications](https://www.oracle.com/technetwork/java/index-jsp-136701.html "Java BluePrints: Guidelines, patterns, and code for end-to-end applications")
     * [Java Technology Reference](https://www.oracle.com/technetwork/java/index-jsp-142903.html "Java Technology Reference")
     * [jsonschema2pojo](http://www.jsonschema2pojo.org/ "jsonschema2pojo")
     * [Oracle Help Center](https://docs.oracle.com/en/ "Oracle Help Center")
-    * [REST Assured](http://rest-assured.io/ "REST Assured")
+    * [RESTful Web Services](https://github.com/mneiferbag/java-jaxrs)
     * [Secure Coding Guidelines for Java SE](https://www.oracle.com/technetwork/java/seccodeguide-139067.html "Secure Coding Guidelines for Java SE")
     * [The Java Tutorials](https://docs.oracle.com/javase/tutorial/ "The Java Tutorials")
 * Static Code Analysis
     * [Checkstyle](https://checkstyle.sourceforge.io/ "Checkstyle")
+    * [SonarLint](https://www.sonarlint.org/)
     * [SpotBugs](https://spotbugs.github.io/ "SpotBugs")
 * Unit testing
     * [Hamcrest](http://hamcrest.org/ "Hamcrest")
@@ -60,5 +58,6 @@ To configure the JDK used by CodeQL, add the following step before all others.
     * [Mockito framework site](https://site.mockito.org/ "Mockito framework site")
     * [TestNG](https://testng.org/ "TestNG")
 * Apache
+    * [Apache Groovy](https://www.groovy-lang.org/ "Apache Groovy")
     * [Apache Log4j](https://logging.apache.org/log4j/ "Apache Log4j")
 	* [Apache Maven](http://maven.apache.org/ "Apache Maven")
