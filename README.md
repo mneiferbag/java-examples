@@ -47,6 +47,7 @@ To configure the JDK used by CodeQL, add the following step before all others.
     * [Oracle Help Center](https://docs.oracle.com/en/ "Oracle Help Center")
     * [RESTful Web Services](https://github.com/mneiferbag/java-jaxrs)
     * [Secure Coding Guidelines for Java SE](https://www.oracle.com/technetwork/java/seccodeguide-139067.html "Secure Coding Guidelines for Java SE")
+    * [Spring Boot Example](https://github.com/mneiferbag/java-spring-boot)
     * [The Java Tutorials](https://docs.oracle.com/javase/tutorial/ "The Java Tutorials")
 * Static Code Analysis
     * [Checkstyle](https://checkstyle.sourceforge.io/ "Checkstyle")
