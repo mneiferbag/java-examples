@@ -1,12 +1,12 @@
 # See here for image contents: https://github.com/microsoft/vscode-dev-containers/tree/v0.145.0/containers/java/.devcontainer/base.Dockerfile
 
 # [Choice] Java version: 11, 14
-ARG VARIANT="14"
+ARG VARIANT="11"
 FROM mcr.microsoft.com/vscode/devcontainers/java:0-${VARIANT}
 
 # [Option] Install Maven
-ARG INSTALL_MAVEN="false"
-ARG MAVEN_VERSION=""
+ARG INSTALL_MAVEN="true"
+ARG MAVEN_VERSION="3.8.1"
 # [Option] Install Gradle
 ARG INSTALL_GRADLE="false"
 ARG GRADLE_VERSION=""
@@ -14,7 +14,7 @@ RUN if [ "${INSTALL_MAVEN}" = "true" ]; then su vscode -c "source /usr/local/sdk
     && if [ "${INSTALL_GRADLE}" = "true" ]; then su vscode -c "source /usr/local/sdkman/bin/sdkman-init.sh && sdk install gradle \"${GRADLE_VERSION}\""; fi
 
 # [Option] Install Node.js
-ARG INSTALL_NODE="true"
+ARG INSTALL_NODE="false"
 ARG NODE_VERSION="lts/*"
 RUN if [ "${INSTALL_NODE}" = "true" ]; then su vscode -c "source /usr/local/share/nvm/nvm.sh && nvm install ${NODE_VERSION} 2>&1"; fi
 
