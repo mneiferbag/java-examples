@@ -45,6 +45,7 @@ To configure the JDK used by CodeQL, add the following step before all others.
     * [Java Technology Reference](https://www.oracle.com/technetwork/java/index-jsp-142903.html "Java Technology Reference")
     * [jsonschema2pojo](http://www.jsonschema2pojo.org/ "jsonschema2pojo")
     * [Oracle Help Center](https://docs.oracle.com/en/ "Oracle Help Center")
+    * [Project Lombok](https://projectlombok.org/)
     * [RESTful Web Services](https://github.com/mneiferbag/java-jaxrs)
     * [Secure Coding Guidelines for Java SE](https://www.oracle.com/technetwork/java/seccodeguide-139067.html "Secure Coding Guidelines for Java SE")
     * [Spring Boot Example](https://github.com/mneiferbag/java-spring-boot)
@@ -61,4 +62,4 @@ To configure the JDK used by CodeQL, add the following step before all others.
 * Apache
     * [Apache Groovy](https://www.groovy-lang.org/ "Apache Groovy")
     * [Apache Log4j](https://logging.apache.org/log4j/ "Apache Log4j")
-	* [Apache Maven](http://maven.apache.org/ "Apache Maven")
+    * [Apache Maven](http://maven.apache.org/ "Apache Maven")
