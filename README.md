@@ -40,7 +40,7 @@ To configure the JDK used by CodeQL, add the following step before all others.
     * [Cucumber Docs](https://cucumber.io/docs/cucumber/ "Cucumber Docs")
     * [DevStyle - Genuitec](https://www.genuitec.com/products/devstyle/ "DevStyle - Genuitec")
     * [EclEmma - Java Code Coverage for Eclipse](https://www.eclemma.org/ "EclEmma - Java Code Coverage for Eclipse")
-    * [GitHub - FasterXML/jackson: Main Portal page for the Jackson project](https://github.com/FasterXML/jackson "GitHub - FasterXML/jackson: Main Portal page for the Jackson project")
+    * [Jackson](https://github.com/FasterXML/jackson) the Java JSON library
     * [Java BluePrints: Guidelines, patterns, and code for end-to-end applications](https://www.oracle.com/technetwork/java/index-jsp-136701.html "Java BluePrints: Guidelines, patterns, and code for end-to-end applications")
     * [Java Technology Reference](https://www.oracle.com/technetwork/java/index-jsp-142903.html "Java Technology Reference")
     * [jsonschema2pojo](http://www.jsonschema2pojo.org/ "jsonschema2pojo")
