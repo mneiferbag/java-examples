@@ -43,11 +43,12 @@ To configure the JDK used by CodeQL, add the following step before all others.
     * [Jackson](https://github.com/FasterXML/jackson) the Java JSON library
     * [Java BluePrints: Guidelines, patterns, and code for end-to-end applications](https://www.oracle.com/technetwork/java/index-jsp-136701.html "Java BluePrints: Guidelines, patterns, and code for end-to-end applications")
     * [Java Technology Reference](https://www.oracle.com/technetwork/java/index-jsp-142903.html "Java Technology Reference")
+    * [JAX-RS Example](https://github.com/mneiferbag/java-jaxrs)
     * [jsonschema2pojo](http://www.jsonschema2pojo.org/ "jsonschema2pojo")
     * [Oracle Help Center](https://docs.oracle.com/en/ "Oracle Help Center")
     * [Project Lombok](https://projectlombok.org/)
-    * [RESTful Web Services](https://github.com/mneiferbag/java-jaxrs)
     * [Secure Coding Guidelines for Java SE](https://www.oracle.com/technetwork/java/seccodeguide-139067.html "Secure Coding Guidelines for Java SE")
+    * [Simple Logging Facade for Java (SLF4J)](http://www.slf4j.org/)
     * [Spring Boot Example](https://github.com/mneiferbag/java-spring-boot)
     * [The Java Tutorials](https://docs.oracle.com/javase/tutorial/ "The Java Tutorials")
 * Static Code Analysis
@@ -56,10 +57,9 @@ To configure the JDK used by CodeQL, add the following step before all others.
     * [SpotBugs](https://spotbugs.github.io/ "SpotBugs")
 * Unit testing
     * [Hamcrest](http://hamcrest.org/ "Hamcrest")
-    * [JUnit 5](https://junit.org/junit5/ "JUnit 5")
+    * [JUnit](https://junit.org/)
     * [Mockito framework site](https://site.mockito.org/ "Mockito framework site")
     * [TestNG](https://testng.org/ "TestNG")
 * Apache
     * [Apache Groovy](https://www.groovy-lang.org/ "Apache Groovy")
-    * [Apache Log4j](https://logging.apache.org/log4j/ "Apache Log4j")
     * [Apache Maven](http://maven.apache.org/ "Apache Maven")
