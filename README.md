@@ -10,20 +10,18 @@ The examples assume, that you have a JDK installed. You might want to have a loo
 
 On Ubuntu, install default JDK with `sudo apt install default-jdk`. Or install specific JDK with, for example `apt-get install openjdk-11-jdk`.
 
-### JDK 14
+### Language Features
 
-Language features see [Java SE 14 (JSR 389) Final Release Specification](https://cr.openjdk.java.net/~iris/se/14/latestSpec/#Features).
-
-- 305 Pattern Matching for instanceof (Preview)
-- 359 Records (Preview)
-- 361 Switch Expressions (Standard)
-- 368 Text Blocks (Second Preview)
-
-### JDK 11 (LTS)
-
-Language features see [Java SE 11 (JSR 384) Final Release Specification](https://cr.openjdk.java.net/~iris/se/11/spec/fr/java-se-11-fr-spec/#Feature-details).
-
-- 323 Local-Variable Syntax for Lambda Parameters
+- JDK 14 (see [Java SE 14 (JSR 389) Final Release Specification](https://cr.openjdk.java.net/~iris/se/14/latestSpec/#Features))
+  - 305 Pattern Matching for instanceof (Preview)
+  - 359 Records (Preview)
+  - 361 Switch Expressions (Standard)
+  - 368 Text Blocks (Second Preview)
+- JDK 11 (LTS, see [Java SE 11 (JSR 384) Final Release Specification](https://cr.openjdk.java.net/~iris/se/11/spec/fr/java-se-11-fr-spec/#Feature-details))
+  - 323 Local-Variable Syntax for Lambda Parameters
+- JDK 10 (see [Java SE 10 (18.3) ( JSR 383)
+Final Release Specification](https://cr.openjdk.java.net/~iris/se/10/fr/java-se-10-fr-spec/#Feature-details))
+  - 286 Local-Variable Type Inference (reserved type name "var")
 
 ## GitHub CodeQL
 
