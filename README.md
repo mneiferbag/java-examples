@@ -46,6 +46,7 @@ To configure the JDK used by CodeQL, add the following step before all others.
     * [Oracle Help Center](https://docs.oracle.com/en/ "Oracle Help Center")
     * [Project Lombok](https://projectlombok.org/)
     * [Secure Coding Guidelines for Java SE](https://www.oracle.com/technetwork/java/seccodeguide-139067.html "Secure Coding Guidelines for Java SE")
+    * [Servlets Example](https://github.com/mneiferbag/java-servlets)
     * [Simple Logging Facade for Java (SLF4J)](http://www.slf4j.org/)
     * [Spring Boot Example](https://github.com/mneiferbag/java-spring-boot)
     * [The Java Tutorials](https://docs.oracle.com/javase/tutorial/ "The Java Tutorials")
