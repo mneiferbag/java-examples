@@ -49,8 +49,9 @@ Final Release Specification](https://cr.openjdk.java.net/~iris/se/10/fr/java-se-
     * [Checkstyle](https://checkstyle.sourceforge.io/ "Checkstyle")
     * [SonarLint](https://www.sonarlint.org/)
     * [SpotBugs](https://spotbugs.github.io/ "SpotBugs")
-* Unit testing
+* Testing
     * [Hamcrest](http://hamcrest.org/ "Hamcrest")
+    * [jqwik](https://jqwik.net/) a property-based testing engine for the JUnit 5 platform
     * [JUnit](https://junit.org/)
     * [Mockito framework site](https://site.mockito.org/ "Mockito framework site")
     * [TestNG](https://testng.org/ "TestNG")
