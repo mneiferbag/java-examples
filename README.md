@@ -12,25 +12,20 @@ On Ubuntu, install default JDK with `sudo apt install default-jdk`. Or install s
 
 ### Language Features
 
+- JDK 17 (LTS, see [Java SE 17 (JSR 392) Final Release Specification](https://cr.openjdk.java.net/~iris/se/17/latestSpec/#Features))
+  - JEP 406 Pattern Matching for switch (Preview)
+  - JEP 306 Restore Always-Strict Floating-Point Semantics
+  - JEP 409 Sealed Classes
 - JDK 14 (see [Java SE 14 (JSR 389) Final Release Specification](https://cr.openjdk.java.net/~iris/se/14/latestSpec/#Features))
-  - 305 Pattern Matching for instanceof (Preview)
-  - 359 Records (Preview)
-  - 361 Switch Expressions (Standard)
-  - 368 Text Blocks (Second Preview)
+  - JEP 305 Pattern Matching for instanceof (Preview)
+  - JEP 359 Records (Preview)
+  - JEP 361 Switch Expressions (Standard)
+  - JEP 368 Text Blocks (Second Preview)
 - JDK 11 (LTS, see [Java SE 11 (JSR 384) Final Release Specification](https://cr.openjdk.java.net/~iris/se/11/spec/fr/java-se-11-fr-spec/#Feature-details))
-  - 323 Local-Variable Syntax for Lambda Parameters
+  - JEP 323 Local-Variable Syntax for Lambda Parameters
 - JDK 10 (see [Java SE 10 (18.3) ( JSR 383)
 Final Release Specification](https://cr.openjdk.java.net/~iris/se/10/fr/java-se-10-fr-spec/#Feature-details))
-  - 286 Local-Variable Type Inference (reserved type name "var")
-
-## GitHub CodeQL
-
-To configure the JDK used by CodeQL, add the following step before all others.
-
-    - name: Setup Java JDK
-      uses: actions/setup-java@<chose tag>
-      with:
-         java-version: 11
+  - JEP 286 Local-Variable Type Inference (reserved type name "var")
 
 ## Links
 
