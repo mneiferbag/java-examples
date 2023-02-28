@@ -23,9 +23,11 @@ On Ubuntu, install default JDK with `sudo apt install default-jdk`. Or install s
   - JEP 368 Text Blocks (Second Preview)
 - JDK 11 (LTS, see [Java SE 11 (JSR 384) Final Release Specification](https://cr.openjdk.java.net/~iris/se/11/spec/fr/java-se-11-fr-spec/#Feature-details))
   - JEP 323 Local-Variable Syntax for Lambda Parameters
-- JDK 10 (see [Java SE 10 (18.3) ( JSR 383)
+- JDK 10 (see [Java SE 10 (JSR 383)
 Final Release Specification](https://cr.openjdk.java.net/~iris/se/10/fr/java-se-10-fr-spec/#Feature-details))
   - JEP 286 Local-Variable Type Inference (reserved type name "var")
+- JDK 9 (see [Java SE 9 (JSR 379) Final Release Specification](https://cr.openjdk.org/~iris/se/9/java-se-9-fr-spec/#Feature-details))
+  - JEP 261 Module System
 
 ## Links
 
@@ -38,7 +40,6 @@ Final Release Specification](https://cr.openjdk.java.net/~iris/se/10/fr/java-se-
     * [Java Technology Reference](https://www.oracle.com/technetwork/java/index-jsp-142903.html "Java Technology Reference")
     * [JAX-RS Example](https://github.com/mneiferbag/java-jaxrs)
     * [jsonschema2pojo](http://www.jsonschema2pojo.org/ "jsonschema2pojo")
-    * [Oracle Help Center](https://docs.oracle.com/en/ "Oracle Help Center")
     * [Project Lombok](https://projectlombok.org/)
     * [Secure Coding Guidelines for Java SE](https://www.oracle.com/technetwork/java/seccodeguide-139067.html "Secure Coding Guidelines for Java SE")
     * [Servlets Example](https://github.com/mneiferbag/java-servlets)
