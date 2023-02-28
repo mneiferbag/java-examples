@@ -23,8 +23,7 @@ On Ubuntu, install default JDK with `sudo apt install default-jdk`. Or install s
   - JEP 368 Text Blocks (Second Preview)
 - JDK 11 (LTS, see [Java SE 11 (JSR 384) Final Release Specification](https://cr.openjdk.java.net/~iris/se/11/spec/fr/java-se-11-fr-spec/#Feature-details))
   - JEP 323 Local-Variable Syntax for Lambda Parameters
-- JDK 10 (see [Java SE 10 (JSR 383)
-Final Release Specification](https://cr.openjdk.java.net/~iris/se/10/fr/java-se-10-fr-spec/#Feature-details))
+- JDK 10 (see [Java SE 10 (JSR 383) Final Release Specification](https://cr.openjdk.java.net/~iris/se/10/fr/java-se-10-fr-spec/#Feature-details))
   - JEP 286 Local-Variable Type Inference (reserved type name "var")
 - JDK 9 (see [Java SE 9 (JSR 379) Final Release Specification](https://cr.openjdk.org/~iris/se/9/java-se-9-fr-spec/#Feature-details))
   - JEP 261 Module System
