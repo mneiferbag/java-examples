@@ -50,11 +50,14 @@ On Ubuntu, install default JDK with `sudo apt install default-jdk`. Or install s
     * [SonarLint](https://www.sonarlint.org/)
     * [SpotBugs](https://spotbugs.github.io/ "SpotBugs")
 * Testing
+    * [Awaitility](https://github.com/awaitility/awaitility) - a small Java DSL for synchronizing asynchronous operations
     * [Hamcrest](http://hamcrest.org/ "Hamcrest")
     * [jqwik](https://jqwik.net/) a property-based testing engine for the JUnit 5 platform
     * [JUnit](https://junit.org/)
     * [Mockito framework site](https://site.mockito.org/ "Mockito framework site")
+    * [Testcontainers for Java](https://java.testcontainers.org/)
     * [TestNG](https://testng.org/ "TestNG")
+    * [WireMock](https://wiremock.org/)
 * Apache
     * [Apache Groovy](https://www.groovy-lang.org/ "Apache Groovy")
     * [Apache Maven](http://maven.apache.org/ "Apache Maven")
