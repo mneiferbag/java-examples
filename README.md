@@ -53,6 +53,7 @@ On Ubuntu, install default JDK with `sudo apt install default-jdk`. Or install s
     * [Awaitility](https://github.com/awaitility/awaitility) - a small Java DSL for synchronizing asynchronous operations
     * [Hamcrest](http://hamcrest.org/ "Hamcrest")
     * [jqwik](https://jqwik.net/) a property-based testing engine for the JUnit 5 platform
+    * [JSpecify](https://jspecify.dev/) Standard Annotations for Java Static Analysis
     * [JUnit](https://junit.org/)
     * [Mockito framework site](https://site.mockito.org/ "Mockito framework site")
     * [Testcontainers for Java](https://java.testcontainers.org/)
